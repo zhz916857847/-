@@ -1,0 +1,6 @@
+{
+  "name": "TOONHUB 数字人",
+  "description": "3D AI 数字人形象交互展示 Hero 轮播",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
